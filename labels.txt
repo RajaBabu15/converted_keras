@@ -1,0 +1,2 @@
+0 Tumour
+1 Healthy
